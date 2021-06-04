@@ -5,7 +5,7 @@ subject: 'cat:cs.*'
 keywords:
         management: 3
         knowledge management: 3
-        japan: 1
+        innovation: 3
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 3
